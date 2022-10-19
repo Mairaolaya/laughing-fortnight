@@ -13,9 +13,21 @@ nav{
     display: flex;
     justify-content:flex-end;
 }
+
 .maira li{
     display:inline;
     width:250px;
     height:auto;
-    
+}
+
+.menu-icon{
+    text-shadow: transparent;
+    color: transparent;
+    text-decoration: none;
+    background-image: url(https://static.thenounproject.com/png/756729-200.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: contain;
+    weight: 25px;
+    height: 25px; 
 }
